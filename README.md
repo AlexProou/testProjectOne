@@ -1,2 +1,5 @@
 # testProjectOne
-localStorage, api
+## https://jsonplaceholder.typicode.com/posts/
+# - method: 'GET',
+# - checkbox
+## localStorage
